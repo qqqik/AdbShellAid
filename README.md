@@ -1,1 +1,1 @@
-# Android Debug Bridge Aid_安卓调试桥辅助工具_
+# Android Debug Bridge Aid
