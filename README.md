@@ -3,7 +3,7 @@
   - [使用注意(必看)](#使用注意必看)
     - [**有问题&BUG?联系我!**](#有问题bug联系我)
   - [这玩意有啥用?](#这玩意有啥用)
-  - [软件下载](#软件下载)
+ - [软件下载](#软件下载)
 
 <font color = #E253FA> ADBT</font>是一个<u>[ADB](https://developer.android.google.cn/studio/command-line/adb?hl=zh-cn)</u>辅助程序 , 他可以帮助你更简单&快捷的使用ADB  
 并且,在你下载ADBT时还会自动包含<u>[ADB驱动](https://adbshell.com/downloads)</u>,避免你不会下载ADB驱动  
