@@ -3,6 +3,7 @@
   - [使用注意(必看)](#使用注意必看)
     - [**有问题&BUG?联系我!**](#有问题bug联系我)
   - [这玩意有啥用?](#这玩意有啥用)
+  - [软件下载](#软件下载)
 
 <font color = #E253FA> ADBT</font>是一个<u>[ADB](https://developer.android.google.cn/studio/command-line/adb?hl=zh-cn)</u>辅助程序 , 他可以帮助你更简单&快捷的使用ADB  
 并且,在你下载ADBT时还会自动包含<u>[ADB驱动](https://adbshell.com/downloads)</u>,避免你不会下载ADB驱动  
@@ -21,3 +22,6 @@ ADB驱动与本软件的目录一定要是[<u>目录</u>](https://baike.baidu.co
 <font color = #E253FA>BiliBili</font>:破碎の海豚枪  
 ## 这玩意有啥用?
 其实你用cmd也可以用ADB, 但用这个软件方便点, 至少不用为记不住[<u>ADB命令</u>](https://zhuanlan.zhihu.com/p/89060003)烦恼了, <font color = #66C1DE>毕竟这东西是我闲暇时间写出来的</font>, 也是我的***第一个***比较大的项目**(我是彩笔不要攻击我)**但我也尽力了, 可能不是太好, 能用就行{doge}
+# 软件下载
+蓝奏云:https://wwd.lanzouw.com/ipVIU0enrfkf
+密码: 2ri7
